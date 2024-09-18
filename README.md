@@ -51,10 +51,10 @@ The project includes a   user-friendly mobile app   that connects to the device 
    
 -   Team Quantum Quills
     Members :
-          Manoj Bachhav
-          Rutuja Tambe
-          Vaishnavi Girawale
-          Amol Raut
+          Manoj Bachhav,
+          Rutuja Tambe,
+          Vaishnavi Girawale,
+          Amol Raut,
           Abhiram Deshmukh
 -   Mohit Jagtap   (Project Lead)
 -   Dr. Snehal Pimple   (Medical Advisor)
