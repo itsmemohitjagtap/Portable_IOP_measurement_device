@@ -60,7 +60,7 @@ Glaucoma is one of the leading causes of blindness globally. Regular monitoring 
 - Cloud integration for remote access
 - Mass production for wide-scale 
 
-> Developed by **Team Quantum Quills**  
+> Developed by **Team Quantum Quills (Team lead Mohit Jagtap)**  
 > Department of Electronics and Telecommunication  
 > Dr. D. Y. Patil Institute of Engineering Management and Research, Pune  
 > Academic Year: 2024–25
