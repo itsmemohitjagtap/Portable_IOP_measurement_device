@@ -58,9 +58,15 @@ Glaucoma is one of the leading causes of blindness globally. Regular monitoring 
 - AI for personalized health insights
 - Predictive alerts for glaucoma risk
 - Cloud integration for remote access
-- Mass production for wide-scale 
+- Mass production for wide-scale
 
-> Developed by **Team Quantum Quills (Team lead Mohit Jagtap)**  
+  👥 **Developed By: Team Quantum Quills**
+
+| Name             | GitHub Profile                                              | Role              |
+|------------------|-------------------------------------------------------------|-------------------|
+| **Mohit Jagtap** | [@itsmemohitjagtap](https://github.com/itsmemohitjagtap)    | Team Lead         |
+| **Amol Raut**    | [@Amolraut638](https://github.com/Amolraut638)              | Software & Design |
+ 
 > Department of Electronics and Telecommunication  
 > Dr. D. Y. Patil Institute of Engineering Management and Research, Pune  
 > Academic Year: 2024–25
